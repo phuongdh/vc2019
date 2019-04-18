@@ -286,12 +286,12 @@ Qa::Authorities::Local.register_subauthority('genres', 'Qa::Authorities::Local::
 # Use the following config for Elastic Transcoder
 
 # puts Hyrax::ActiveEncode::ActiveEncodeDerivativeService.default_options_service_class
-
 require 'elastic_transcoder_option_service'
 Hyrax::ActiveEncode::WatchedEncode.engine_adapter = :elastic_transcoder
 Hyrax::ActiveEncode::ActiveEncodeDerivativeService.default_options_service_class = ElasticTranscoderOptionService
 Hyrax::ActiveEncode::ActiveEncodeDerivativeService.default_encode_class = Hyrax::ActiveEncode::WatchedEncode
 Hyrax::ActiveEncode::ActiveEncodeDerivativeService.default_local_streaming = false # Stop hyrax-active_encode from moving  derivatives
+
 # Hyrax::IiifAv.config.iiif_av_url_builder = lambda do |file_location_uri, _base_url|
 #  path = file_location_uri.sub(/s3:\/\/[\w-]+\//, '')
 #  "http://mybucket.s3.aws.com#{path}"
