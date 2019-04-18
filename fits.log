@@ -1,0 +1,35 @@
+2019-04-18 12:47:17 - ERROR - ToolBase:290 - Caught Throwable running tool: MediaInfo
+java.lang.NullPointerException
+	at edu.harvard.hul.ois.fits.tools.mediainfo.MediaInfoUtil.reviseIdentification(MediaInfoUtil.java:560)
+	at edu.harvard.hul.ois.fits.tools.mediainfo.MediaInfoUtil.reviseXmlData(MediaInfoUtil.java:430)
+	at edu.harvard.hul.ois.fits.tools.mediainfo.MediaInfo.extractInfo(MediaInfo.java:225)
+	at edu.harvard.hul.ois.fits.tools.ToolBase.run(ToolBase.java:284)
+	at java.lang.Thread.run(Thread.java:748)
+2019-04-18 12:53:14 - ERROR - ToolBase:290 - Caught Throwable running tool: MediaInfo
+java.lang.NullPointerException
+	at edu.harvard.hul.ois.fits.tools.mediainfo.MediaInfoUtil.reviseIdentification(MediaInfoUtil.java:560)
+	at edu.harvard.hul.ois.fits.tools.mediainfo.MediaInfoUtil.reviseXmlData(MediaInfoUtil.java:430)
+	at edu.harvard.hul.ois.fits.tools.mediainfo.MediaInfo.extractInfo(MediaInfo.java:225)
+	at edu.harvard.hul.ois.fits.tools.ToolBase.run(ToolBase.java:284)
+	at java.lang.Thread.run(Thread.java:748)
+2019-04-18 14:52:46 - ERROR - ToolBase:290 - Caught Throwable running tool: MediaInfo
+java.lang.NullPointerException
+	at edu.harvard.hul.ois.fits.tools.mediainfo.MediaInfoUtil.reviseIdentification(MediaInfoUtil.java:560)
+	at edu.harvard.hul.ois.fits.tools.mediainfo.MediaInfoUtil.reviseXmlData(MediaInfoUtil.java:430)
+	at edu.harvard.hul.ois.fits.tools.mediainfo.MediaInfo.extractInfo(MediaInfo.java:225)
+	at edu.harvard.hul.ois.fits.tools.ToolBase.run(ToolBase.java:284)
+	at java.lang.Thread.run(Thread.java:748)
+2019-04-18 15:02:52 - ERROR - ToolBase:290 - Caught Throwable running tool: MediaInfo
+java.lang.NullPointerException
+	at edu.harvard.hul.ois.fits.tools.mediainfo.MediaInfoUtil.reviseIdentification(MediaInfoUtil.java:560)
+	at edu.harvard.hul.ois.fits.tools.mediainfo.MediaInfoUtil.reviseXmlData(MediaInfoUtil.java:430)
+	at edu.harvard.hul.ois.fits.tools.mediainfo.MediaInfo.extractInfo(MediaInfo.java:225)
+	at edu.harvard.hul.ois.fits.tools.ToolBase.run(ToolBase.java:284)
+	at java.lang.Thread.run(Thread.java:748)
+2019-04-18 15:07:55 - ERROR - ToolBase:290 - Caught Throwable running tool: MediaInfo
+java.lang.NullPointerException
+	at edu.harvard.hul.ois.fits.tools.mediainfo.MediaInfoUtil.reviseIdentification(MediaInfoUtil.java:560)
+	at edu.harvard.hul.ois.fits.tools.mediainfo.MediaInfoUtil.reviseXmlData(MediaInfoUtil.java:430)
+	at edu.harvard.hul.ois.fits.tools.mediainfo.MediaInfo.extractInfo(MediaInfo.java:225)
+	at edu.harvard.hul.ois.fits.tools.ToolBase.run(ToolBase.java:284)
+	at java.lang.Thread.run(Thread.java:748)

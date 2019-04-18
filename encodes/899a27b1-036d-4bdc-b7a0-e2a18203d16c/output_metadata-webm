@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaInfo
+    xmlns="https://mediaarea.net/mediainfo"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://mediaarea.net/mediainfo https://mediaarea.net/mediainfo/mediainfo_2_0.xsd"
+    version="2.0">
+<creatingLibrary version="18.12" url="https://mediaarea.net/MediaInfo">MediaInfoLib</creatingLibrary>
+<media ref="file:///home/pdinh/virtual_connect_2019/my_app/encodes/899a27b1-036d-4bdc-b7a0-e2a18203d16c/outputs/fireworks-webm.webm">
+<track type="General">
+<VideoCount>1</VideoCount>
+<AudioCount>1</AudioCount>
+<FileExtension>webm</FileExtension>
+<Format>WebM</Format>
+<Format_Version>2</Format_Version>
+<FileSize>337645</FileSize>
+<Duration>6.017</Duration>
+<OverallBitRate_Mode>VBR</OverallBitRate_Mode>
+<OverallBitRate>448921</OverallBitRate>
+<FrameRate>29.671</FrameRate>
+<FrameCount>178</FrameCount>
+<StreamSize>20764</StreamSize>
+<IsStreamable>Yes</IsStreamable>
+<Encoded_Application>Lavf58.12.100</Encoded_Application>
+<Encoded_Library>Lavf58.12.100</Encoded_Library>
+</track>
+<track type="Video">
+<StreamOrder>0</StreamOrder>
+<ID>1</ID>
+<UniqueID>1</UniqueID>
+<Format>VP8</Format>
+<CodecID>V_VP8</CodecID>
+<Duration>5.999000000</Duration>
+<BitRate>326284</BitRate>
+<Width>320</Width>
+<Height>240</Height>
+<PixelAspectRatio>1.334</PixelAspectRatio>
+<DisplayAspectRatio>1.779</DisplayAspectRatio>
+<FrameRate_Mode>CFR</FrameRate_Mode>
+<FrameRate>29.671</FrameRate>
+<FrameCount>178</FrameCount>
+<Compression_Mode>Lossy</Compression_Mode>
+<Delay>0.003</Delay>
+<StreamSize>244677</StreamSize>
+<Encoded_Library>Lavc58.18.100 libvpx</Encoded_Library>
+<Default>Yes</Default>
+<Forced>No</Forced>
+</track>
+<track type="Audio">
+<StreamOrder>1</StreamOrder>
+<ID>2</ID>
+<UniqueID>2</UniqueID>
+<Format>Vorbis</Format>
+<Format_Settings_Floor>1</Format_Settings_Floor>
+<CodecID>A_VORBIS</CodecID>
+<Duration>6.017000000</Duration>
+<BitRate_Mode>VBR</BitRate_Mode>
+<BitRate>96000</BitRate>
+<Channels>2</Channels>
+<SamplingRate>44100</SamplingRate>
+<SamplingCount>265350</SamplingCount>
+<Compression_Mode>Lossy</Compression_Mode>
+<Delay>0.000</Delay>
+<Delay_Source>Container</Delay_Source>
+<StreamSize>72204</StreamSize>
+<StreamSize_Proportion>0.21385</StreamSize_Proportion>
+<Encoded_Application>Lavc58.18.100</Encoded_Application>
+<Encoded_Library>Xiph.Org libVorbis I 20180316 (Now 100% fewer shells)</Encoded_Library>
+<Encoded_Library_Name>libVorbis</Encoded_Library_Name>
+<Encoded_Library_Version>(Now 100% fewer shells)</Encoded_Library_Version>
+<Encoded_Library_Date>20180316 (Now 100% fewer shells)</Encoded_Library_Date>
+<Language>en</Language>
+<Default>Yes</Default>
+<Forced>No</Forced>
+</track>
+</media>
+</MediaInfo>
